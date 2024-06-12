@@ -21,3 +21,11 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dheeraj0000/2025-training/tree/master/0020-valid-parentheses) |
+# Array
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/dheeraj0000/2025-training/tree/master/2714-left-and-right-sum-differences) |
+# Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/dheeraj0000/2025-training/tree/master/2714-left-and-right-sum-differences) |
