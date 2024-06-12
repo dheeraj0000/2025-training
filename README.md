@@ -27,6 +27,7 @@
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/dheeraj0000/2025-training/tree/master/2714-left-and-right-sum-differences) |
 | [0979-di-string-match](https://github.com/dheeraj0000/2025-training/tree/master/0979-di-string-match) |
+| [1839-decode-xored-array](https://github.com/dheeraj0000/2025-training/tree/master/1839-decode-xored-array) |
 # Prefix Sum
 |  |
 | ------- |
@@ -39,3 +40,7 @@
 |  |
 | ------- |
 | [0979-di-string-match](https://github.com/dheeraj0000/2025-training/tree/master/0979-di-string-match) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1839-decode-xored-array](https://github.com/dheeraj0000/2025-training/tree/master/1839-decode-xored-array) |
