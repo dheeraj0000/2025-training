@@ -13,3 +13,11 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dheeraj0000/2025-training/tree/master/0002-add-two-numbers) |
+# String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dheeraj0000/2025-training/tree/master/0020-valid-parentheses) |
+# Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dheeraj0000/2025-training/tree/master/0020-valid-parentheses) |
